@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sally Lee
 =================================================================================================================================
 
-Front-end Developer
+Web Designer & Front-end Developer
 -------------------
 
 I’ve been working for 📝 trend researching and writing contents for 3years 🎨 graphic design and illustrations for 4years 💻 I've just switched careers as developer Now passionate to use React.js & Vanilla Javascript and interested in React Native
