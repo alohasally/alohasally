@@ -7,7 +7,6 @@ Web Designer & Front-end Developer
 I’ve been working for 📝 trend researching and writing contents for 3years 🎨 graphic design and illustrations for 4years 💻 I've just switched careers as developer Now passionate to use React.js & Vanilla Javascript and interested in React Native
 
 * 🌍  I'm based in Seoul
-* 🖥️  See my portfolio at [my porfolio](http://alohasally.github.io/home/)
 * ✉️  You can contact me at [peacheeks@gmail.com](mailto:peacheeks@gmail.com)
 * 🧠  I'm learning Next.js / Node.js / GraphQL / MySQL / Jest
 
