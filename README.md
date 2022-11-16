@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Designer & Front-end Developer
 -------------------
 
-I’ve been working for 📝 trend researching and writing contents for 3years 🎨 graphic design and illustrations for 4years 💻 I've just switched careers as developer Now passionate to use React.js & Vanilla Javascript and interested in React Native
+I’ve been working for 📝 trend researching and writing contents for 3years 🎨 graphic design and illustrations for 4years
+💻 I wanted switch careers as developer Now passionate to use React.js & Vanilla Javascript and interested in React Native
 
 * 🌍  I'm based in Seoul
 * ✉️  You can contact me at [peacheeks@gmail.com](mailto:peacheeks@gmail.com)
