@@ -8,7 +8,7 @@ I’ve been working for 📝 trend researching and writing contents for 3years �
 
 * 🌍  I'm based in Seoul
 * ✉️  You can contact me at [peacheeks@gmail.com](mailto:peacheeks@gmail.com)
-* 🧠  I'm learning Next.js / Node.js / GraphQL / MySQL / Jest
+* 🧠  I'm learning React.js / Next.js / Node.js 
 
 ### Skills
 
