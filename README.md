@@ -8,7 +8,7 @@ I’ve been working for 📝 trend researching and writing contents for 3years �
 💻 I wanted switch careers as developer Now passionate to use React.js & Vanilla Javascript and interested in React Native
 
 * 🌍  I'm based in Seoul
-* ✉️  You can contact me at [peacheeks@gmail.com](mailto:peacheeks@gmail.com)
+* ✉️  You can contact me at [alohasally7@gmail.com](mailto:alohasally7@gmail.com)
 * 🧠  I'm learning React.js / Next.js / Node.js 
 
 ### Skills
